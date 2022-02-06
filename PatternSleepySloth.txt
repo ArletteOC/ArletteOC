@@ -1,0 +1,27 @@
+SHOUTARO
+the sleepy pocket sloth
+
+HEAD/ BODY
+
+With teal yarn:
+Round 1: Sc 6 in magic ring {6}.
+Round 2: [Inc] around {12}.
+Round 3: [Inc, sc 1] around {18}.
+Round 4: [Inc, sc 2] around {24}.
+Round 5: [Inc, sc 3] around {30}.
+Round 6: [Inc, sc 4] around {36}.
+Round 7: [Inc, sc 5] around {42}.
+Round 8: [Inc, sc 6] around {48}.
+Round 9: [Inc, sc 7] around {54}.
+Round 10-27 (18 rounds altogether): Sc around {54}.
+Round 28: [Inv dec, sc 7] around {48}.
+Round 29: [Inv dec, sc 6] around {42}.
+Round 30: [Inv dec, sc 5] around {36}.
+Round 31: [Inv dec, sc 4] around {30}.
+Round 32: [Inv dec, sc 3] around {24}.
+Round 33: [Inv dec, sc 2] around {18}.
+Stuff piece firmly.
+Round 34: [Inv dec, sc 1] around {12}.
+Round 35: [Inv dec] around {6}.
+Fasten off and weave in ends.
+**All rights reserved**
